@@ -1,0 +1,157 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+h1, h2, h3, h4, h5, h6, a, b, br, tr, td, table, ul, li, div, form, label, input, textarea{margin:0px; padding:0px;}
+#maindiv{width:968px; height:auto; margin:0 auto;}
+#mainheader{width:968px; height:350px;float:left;}
+#logodiv{width:968px; height:87px;float:left;}
+#logo{width:185px; height:87px;float:left;}
+#xplorigenbold{width:486px; height:75px;float:left; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000000; font-weight:bold; text-decoration:none; text-align:right; padding:12px 0 0 0;}
+
+#uppernavmain{width:297px; height:87px; float:left;}
+#uppernav{width:282px; height:30px;float:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#363535; font-weight:normal; text-decoration:none; padding:12px 0 0 15px;}
+#uppernav a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#363535; font-weight:normal; text-decoration:none; }
+#uppernav a:hover{ color:#666666; text-decoration:underline;}
+
+#searchdiv{width:297px; height:35px; float:left;}
+.inp_bg{width:167px; height:35px; float:left; padding:0 0 0 78px;}
+.search_icon{width:38px; height:35px; float:left;}
+.inp{width:168px; height:31px; background:url(../images/input_bg.jpg) left top no-repeat; border:none; padding:5px 5px; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; text-decoration:none; font-weight:bold;}
+
+.mainnavdiv{width:968px; height:32px; float:left;}
+.xplorigen_bg{width:568px; height:32px; float:left;}
+
+.navdiv{width:968px; height:32px; float:left;}
+.nav{width:400px; height:32px; float:right; background:url(../images/nav_bg.jpg)  repeat-x;}
+.nav ul{ margin:0px; padding:0px; list-style:none;}
+.nav ul li{ float:left; line-height:32px;}
+.nav ul li a{ font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#FFFFFF; font-weight:bold; text-decoration:none; padding:0 10px 0 30px;}
+.nav ul li a:hover{ color:#f93100; text-decoration:none;}
+
+#header{width:968px; height:218px; float:left; margin-top:12px;}
+
+
+
+/*-------------------------------------header end-------------------------------*/
+.mainbody{width:968px; height:490px; float:left; margin-top:8px;}
+.shapeleft{width:325px; height:490px; float:right; background:url(../images/body-shape.jpg) left top no-repeat;}
+.shapemid{width:331px; height:490px; float:left; background:url(../images/body-shape.jpg) left top no-repeat; margin-left:10px;}
+.shapemidfull{width:662px; height:490px; float:left; background:url(../images/cont1.jpg) left top no-repeat; margin-left:10px;}
+.shapemidfull11{width:1062px; height:496px; float:left; background:url(../images/adminCont.jpg) left top no-repeat; margin-left:5px;}
+.shaperight{width:279px; height:490px; float:left; margin-left:10px;}
+.articleshape{width:279px; height:271px; float:left; background:url(../images/article-shape.jpg) left top no-repeat;}
+
+.bioinformatics{width:658px; height:44px; float:left; background:url(../images/bio1.jpg) left top no-repeat;}
+
+.dna{width:605px; height:100px; float:left; background:url(../images/dna3.jpg) left top no-repeat;}
+.molc{width:605px; height:100px; float:left; background:url(../images/molc.jpg) left top no-repeat;}
+.miscell{width:605px; height:100px; float:left; background:url(../images/miscell.jpg) left top no-repeat;}
+.genotyp{width:605px; height:100px; float:left; background:url(../images/genotyp.jpg) left top no-repeat;}
+.protien{width:605px; height:100px; float:left; background:url(../images/protien.jpg) left top no-repeat;}
+.biological{width:605px; height:100px; float:left; background:url(../images/biological.jpg) left top no-repeat;}
+.microarrray{width:605px; height:160px; float:left; background:url(../images/microarrray.jpg) left top no-repeat;}
+.statical{width:605px; height:160px; float:left; background:url(../images/statical.jpg) left top no-repeat;}
+.genomic{width:605px; height:180px; float:left; background:url(../images/genomic.jpg) left top no-repeat;}
+.training{width:605px; height:180px; float:left; background:url(../images/training.jpg) left top no-repeat;}
+.consultancy{width:605px; height:180px; float:left; background:url(../images/consultancy.jpg) left top no-repeat;}
+.outsource{width:605px; height:160px; float:left; background:url(../images/outsource.jpg) left top no-repeat;}
+.publ{width:605px; height:160px; float:left; background:url(../images/publ.jpg) left top no-repeat;}
+.softdev{width:605px; height:160px; float:left; background:url(../images/softdev.jpg) left top no-repeat;}
+
+.label1{ font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#000000; text-decoration:none;
+        font-weight:bold;text-align:justify;}
+
+.welcome1{width:300px; height:385px;text-align:justify; float:left; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000000; text-decoration:none; font-weight:normal;text-align:justify; padding: 20px 0 0 20px;}
+.welcome1 h1{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000000; font-weight:normal; }
+.welcome1 h1 span{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#f73908; text-decoration:none; font-weight:normal; padding: 0 0 0 0;}
+.welcome1 h2{font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#000000; font-weight:bold; }
+
+
+
+.welcome{width:630px; height:385px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000000; text-decoration:none; font-weight:normal;text-align:justify; padding: 20px 0 0 20px;}
+.welcome h1{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#000000; font-weight:normal; }
+.welcome xh1 span{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#f73908; text-decoration:none; font-weight:normal; padding: 0 0 0 0;}
+.welcome h2{font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#000000; font-weight:bold; }
+.newseventstop{width:311px; height:162px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#000000; text-decoration:none; font-weight:normal; padding: 20px 0 0 20px;}
+
+.newseventstop h1{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#185f9f; text-decoration:none; font-weight:normal; padding: 0 0 0 0;}
+.newseventstop h2{font-family:Arial, Helvetica, sans-serif; font-size:15px; color:#000000; text-decoration:none; font-weight:bold; padding: 0 0 0 0;}
+.newseventstop h2 span{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#f73908; text-decoration:none; font-weight:bold; padding: 0 0 0 0;}
+.newseventstop span{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#185f9f; text-decoration:none; font-weight:normal;}
+
+.readnews{width:330px; height:38px; float:left;}
+.readdiv{width:198px; height:24px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ec4a12; text-decoration:underline; font-weight:normal; padding: 14px 0 0 0;}
+
+
+
+.readdiv a{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ec4a12; text-decoration:underline; font-weight:normal;}
+.readdiv a:hover{color:#046aa9; text-decoration:none;}
+
+.readmore{width:198px; height:24px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ec4a12; text-decoration:underline; font-weight:bold; padding: 14px 0 0 0;}
+.readmore a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ec4a12; text-decoration:underline; font-weight:bold; padding: 14px 0 0 0;}
+.readmore a:hover{color:#046aa9; text-decoration:none; }
+.icon{width:130px; height:38px; float:left; background:url(../images/book-_icon.jpg) right top no-repeat;}
+.iconappl{width:130px; height:38px; float:left; background:url(../images/appl.gif) right top no-repeat;}
+.imgseq{width:50px; height:50px; float:left; background:url(../images/seq.jpg) right top no-repeat;}
+
+.rightnav{width:278px; height:212px; float:left; margin-top:55px;}
+.rightnav ul{ margin:0px; padding:0px; list-style:none; padding:0 0 0 10px;}
+.rightnav ul li{ line-height:26px; background:url(../images/icon.jpg) left center no-repeat; padding-left:15px;}
+.rightnav ul li a{ font-family: Arial, Helvetica, sans-serif; font-size:15px; color:#f4f4f4; text-decoration:none; font-weight:normal; padding: 0 0 0 0;}
+.rightnav ul li a:hover{ color:#CCCCCC; text-decoration:underline;}
+.contact{width:254px; height:26px; float:left; margin-top:6px; background:url(../images/contact_image.jpg) left top no-repeat; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ec4a12; text-decoration:underline; font-weight:bold; padding:135px 0 0 25px;} 
+.contact a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ec4a12; text-decoration:underline; font-weight:bold;} 
+.contact a:hover{color:#046aa9; text-decoration:none; }
+
+
+.link11{font-family:Helvetica, sans-serif; font-size:18px;
+    font-weight:bold;
+    font-style:oblique;
+    margin-left:200px;
+    text-decoration:none;
+    color:#082F4C; text-decoration:none; font-weight:normal; }
+
+.head1{font-family:Arial, Helvetica, sans-serif; font-size:18px; color:red; font-weight:normal;       
+        margin:10px 40px 0px 25px;
+    }
+
+
+
+.footer{width:950px; height:55px; float:left; background:url(../images/footerimage.jpg) left top no-repeat; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; text-decoration:none; font-weight:normal; padding:40px 0 0 18px;} 
+.footer a{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; text-decoration:none; font-weight:normal; }
+.footer a:hover{ color:#fb805f; text-decoration:underline;} 
+.footer h3{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; text-decoration:none; text-align:right; font-weight:bold; padding-right:10px;margin-top:-51px;}
+.footer h2{font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; text-decoration:none; text-align:right; font-weight:bold; padding-right:10px;margin-top:41px;}
+.headingtext{
+    text-align:center;
+    font-weight:bold;
+    background-color:#07304E;
+    color:white;
+    height: 25px;
+    font-size: 16px;
+    font-family: verdana;font-size:16px;
+}
+
+#navigation { width: 100%; }
+#navigation ul { list-style: none; margin: 0; padding: 0; }
+#navigation li { border-bottom: 1px solid #ED9F9F; }
+#navigation li a:link, #navigation li a:visited
+{
+    font-size: 90%;
+    display: block;
+    padding: 0.4em 0 0.4em 0.5em;
+    border-left: 12px solid #711515;
+    border-right: 1px solid #711515;
+    background-color: #B51032; color: #FFFFFF;
+    text-decoration: none;
+}
+#navigation li a:hover { background-color: #711515; color: #FFFFFF; }
+#navigation ul ul { margin-left: 12px; }
+#navigation ul ul li { border-bottom: 1px solid #711515; margin:0; }
+#navigation ul ul a:link, #navigation ul ul a:visited
+{
+    background-color: #ED9F9F;
+    color: #711515;
+}
+#navigation ul ul a:hover { background-color: #711515; color: #FFFFFF; }

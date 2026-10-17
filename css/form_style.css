@@ -1,0 +1,54 @@
+h2 { font-size: 18px; font-weight: normal; color: #990000; margin: 0; line-height: 120%; }
+p.byline { text-align: right; font-size: 9px; padding-right: 20px; margin-right: 320px; padding-top: 0; margin-top: 0; }
+fieldset { padding: 0; margin: 0; border: 0; }
+.clear { display: block; line-height: 0; font-size: 0; clear: left; width: 100%; height: 0; margin: 0; padding: 0; background: transparent; border: none; color: white; }
+hr.clear { font-size: 0; clear: left; width: 100%; height: 0; margin: 0; padding: 0; background: transparent; border: none; color: white; }
+p strong { font-weight: bold; }
+#opt-in-form { position: relative; float: right; top: 2.5em; width: 600px; }
+#u_form{ border: 3px solid #faefc6;  padding: 16px;  padding-top: 0;  margin: 0px 0px 20px 0px;  -webkit-border-top-left-radius: 18px;  -webkit-border-top-right-radius: 18px;  -moz-border-radius-topleft: 18px;  -moz-border-radius-topright: 18px;  border-top-left-radius: 18px;  border-top-right-radius: 18px;  display: inline-block; width: 660px;}
+#u_form h1, #u_form h2, #u_form h3 { margin: -16px; margin-top: 0; padding: 8px; padding-left: 16px; }
+#u_form h2 { -webkit-border-top-left-radius: 14px; -webkit-border-top-right-radius: 14px; -moz-border-radius-topleft: 14px; -moz-border-radius-topright: 14px; border-top-left-radius: 14px; border-top-right-radius: 14px; background-image: -moz-linear-gradient(0% 24% 270deg, #fefcf5, #fcf6dd); background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.01, #fcf6dd), color-stop(0.69, #fefcf5)); background-color: #fdf8e7; color: #444444; font-size: 20px; #border-bottom: 3px solid #faefc6; margin-bottom: 0px; }
+#u_form h3 { border-top: 3px solid #faefc6; background: #fcf6dd; color: #990000; font-size: 12px; margin-bottom: 8px; }
+#u_form nav { display: block; border-top: 3px solid #faefc6; margin: -16px; margin-top: 0; padding-left: 16px; margin-bottom: 16px; background: #faefc6; }
+#u_form nav .ui-tabs { list-style: none; margin: 0; padding: 0; margin-left: -16px; margin-bottom: 0; }
+#u_form nav .ui-tabs li { border-bottom: 3px solid #faefc6; background: #fcf6dd; padding: 8px 16px; display: inline-block; }
+#u_form nav .ui-tabs li a { color: #990000; font-size: 16px; font-weight: bold; }
+#u_form nav .ui-tabs li.ui-tabs-selected { border-bottom-color: white; background: white; }
+#u_form nav .ui-tabs li.ui-tabs-selected a { color: black; }
+#u_form:after { content: " "; display: block; height: 0; clear: both; visibility: hidden; }
+#u_form label { font-weight: bold; display: block; float: left; width: 185px; padding: 3px 10px 3px 5px; margin: 5px 0 5px 0; clear: left; }
+#u_form input { width: 200px; padding: 3px 3px; margin: 5px 5px 5px 0; }
+#u_form .displaydata { width: 330px; padding: 3px 0; margin: 5px 0 5px 0; vertical-align: middle; display: block; float: left; }
+#u_form fieldset { margin: -16px; padding: 16px; margin-bottom: 16px; border-bottom: 1px solid #faefc6; }
+#u_form fieldset:nth-child(odd) { background: #fefcf5; }
+#u_form fieldset p.hint { margin-left: 200px; }
+#u_form button { background: -webkit-gradient(linear, 0% 45%, 0% 55%, from(#fbdf73), to(#fad441)); background: -moz-linear-gradient(0% 45% 270deg, #fbdf73, #fad441, #fad441 55%); background-color: #fad441; border: 1px solid #f9c90f; font-weight: bold; display: inline; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; padding: 8px; margin-bottom: 4px; padding-left: 10px; padding-right: 10px; padding-top: 4px; padding-bottom: 4px; margin-right: 4px; color: black; }
+#u_form button:active { background: -webkit-gradient(linear, 0% 45%, 0% 55%, from(#fad441), to(#fbdf73)); background: -moz-linear-gradient(0% 45% 90deg, #fbdf73, #fad441, #fad441 55%); }
+#u_form button:hover { text-decoration: underline; }
+#u_form button a { color: black; }
+#u_form button[type=submit] { float: right; }
+
+.text-1 {
+    font-size:12px;
+    color:#22749f;
+    text-decoration:none;
+
+}
+.heading_lable{
+    font-size: 13px;
+    font-weight: bold;
+    color: #f6f6f6;
+    background-color: #711515;
+    text-align: center;
+}
+
+.b-text{
+    background-color: #DAE8EC;
+    -moz-border-radius-topleft: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    border: 2px solid #B8CB99;
+    padding: 2px;
+
+}
