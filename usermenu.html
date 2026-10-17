@@ -1,0 +1,78 @@
+<!--
+
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link href="../Style-Sheet/Menu.css" rel="stylesheet" type="text/css">
+        <script src="../JavaScript/jquery.min.js"></script>
+        <script src="../JavaScript/jquery.hoveraccordion.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready( function() {
+                // Setup HoverAccordion for Example 1
+                $('#example1').hoverAccordion({onClickOnly:true,keepHeight:true});
+            });
+        </script>
+    </head>
+    <body>
+
+        <div class="liquid-round">
+            <div class="top"><span></span></div>
+            <div class="center-content" style="height: 530px;">
+                <div id="navigation" style="height: 570px;width: 250px;">
+
+                    <ul>
+                        <li><a href="#"><strong>Our Links</strong></a>
+                        </li>
+                        <li><a href="#"><strong>My Profile</strong></a>
+                            <ul>
+                                <li>
+                                    <a href="MyAccount.jsp">My Account</a>
+                                </li>
+                                <li>
+                                    <a href="ChangePassword.jsp">Change Password</a>
+                                </li>
+                              
+
+                            </ul>
+                        </li>
+                        <li><a href="#"><strong>FAQ</strong></a>
+                            <ul>
+                           
+                                <li>
+                                    <a href="ReplyList.jsp">Faq</a>
+                                </li>
+                                <li>
+                                    <a href="Vacancy.jsp">Vacancy</a>
+                                </li>
+                            </ul>
+                        </li>
+                    
+                                <li><a href="#"><strong>Job Apply</strong></a>
+                            <ul>
+                                <li>
+                                    <a href="OnlineJob.jsp">Job</a>
+                                </li>
+                                        <li>
+                                    <a href="ViewStatus.jsp"> View Job</a>
+                                </li>
+                         
+
+
+                            </ul>
+                        </li>
+                    
+
+                        <li><a href="logout1?utype=user"><strong>Logout</strong></a></li>
+
+
+                    </ul>
+                </div>
+
+            </div>
+            <div class="bottom" style="height:45px"><span style="height:45px;background-position:right bottom"></span></div>
+        </div>
+    </body>
+</html>
