@@ -60,7 +60,7 @@ The project design adheres to the Software Engineering **Waterfall Life Cycle Mo
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/AshNaut-200/Skill-Bridge-Management-System.git](https://github.com/AshNaut-2000/Skill-Bridge-Management-System.git)
+   git clone [https://github.com/AshNaut-200/MCA-Project2026.git](https://github.com/AshNaut-2000/MCA-Project2026.git)
    cd Skill-Bridge-Management-System
    ```
 2. **Database Setup:**
